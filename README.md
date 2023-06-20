@@ -3,8 +3,15 @@
 Retningslinjer for åpen kildekode i NRK
 
 > NB! Holder dette repoet `private` til vi har fått sementert oppdateringene fra [dagens retningslinjer](https://nrkconfluence.atlassian.net/wiki/spaces/OSS/pages/3261285/Retningslinjer+for+deling+av+pen+kildekode) i aktuelle grupper (starter med techleads, så divisjonsledergruppe(r?)?)
-> 
+>
 > Og ja, er klar over ironien ved det...
+
+## Litt tall
+
+[nrkno](https://github.com/nrkno) -organisasjonen på github har i dag (20. juni 2023, teller ikke med arkiverte)
+
+- 2251 private repositories [kilde](https://github.com/search?q=org%3ANrkno+archived%3Afalse+is%3Aprivate&type=repositories)
+- 90 åpne repositories [kilde](https://github.com/search?q=org%3Anrkno+is%3Apublic+archived%3Afalse&type=repositories&ref=advsearch)
 
 ## Inspirasjon
 
