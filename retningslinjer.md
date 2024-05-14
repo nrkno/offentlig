@@ -9,7 +9,7 @@ Deling av åpen kildekode innebærer at NRK lisensierer og offentliggjør sine k
 ## Motivasjon
 
 Målet med retningslinjene er å sørge for en felles forståelse av omfang og
-forpliktelser når vi deling åpen kildekode.
+forpliktelser når vi deler åpen kildekode.
 
 ## Dokumentets gyldighet
 
