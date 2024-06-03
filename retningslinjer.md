@@ -1,7 +1,7 @@
 # Retningslinjer for deling av åpen kildekode
 
 Retningslinjene omfatter interne prosjekter laget av Norsk rikskringkasting
-(NRK) som blir delt under en åpen kildekodelisens på GitHub organisasjonen
+(NRK) som blir delt under en åpen kildekodelisens på GitHub-organisasjonen
 [`nrkno`](https://github.com/nrkno).
 
 Deling av åpen kildekode innebærer at NRK lisensierer og offentliggjør sine kodebrønner åpent så andre kan se, bruke og lære av dem.
@@ -18,7 +18,7 @@ kodebrønner og kodeprosjekter som åpnes etter vedtaksdato.
 
 For å sikre vedvarende forpliktelse skal retningslinjene revideres årlig. Techleadforum nedsetter en arbeidsgruppe som holder i dette.
 
-## Lisensiering av Åpen kildekode
+## Lisensiering av åpen kildekode
 
 Hos NRK bruker vi `MIT` for lisensiering av åpen kode.
 
@@ -57,7 +57,7 @@ Teamet kan selv vurdere å avvike fra dette om det er hensiktsmessig.
 
 ### Rutine for arkivering
 
-Kodebrønner som ikke lenger vedlikeholdes, eller brukes aktivt av NRK, skal tydelig markeres som arkiverte prosjekter. I Github skal "Archive" funksjonliteten brukes, samt andre språkspesefikke arkiveringsmerknader.
+Kodebrønner som ikke lenger vedlikeholdes, eller brukes aktivt av NRK, skal tydelig markeres som arkiverte prosjekter. I Github skal "Archive" funksjonaliteten brukes, samt andre språkspesifikke arkiveringsmerknader.
 
 En arkivert kodebrønn kan ved behov gjenåpnes. Det bør samtidig vurderes om eventuelle forgreninger (forks) kan ha verdi for videre forvaltning.
 
