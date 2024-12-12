@@ -43,8 +43,6 @@ Tech-lead, eller tilsvarende rolle som forvalter teamets kildekode, skal ta stil
 
 Offentliggjøring av en kodebrønn skal skriftlig godkjennes av produkteier, eller tilsvarende rolle, før publisering.
 
-Vi anbefaler at dette loggføres i et internt dokumentasjonsverktøy for teamet.
-
 Det praktiske eierskapet til kildekoden ligger hos teamet.
 
 ### Språklige hensyn
