@@ -16,7 +16,7 @@ Deling av åpen kildekode innebærer at NRK lisensierer og offentliggjør sine k
 Prosedyre og anbefalinger i dette dokumentet gjelder for alle nye
 kodebrønner og kildekode som åpnes etter vedtaksdato.
 
-Unntak fra ledd i prosedyren skal begrunnes av teamet. For spesielt viktig kildekode skal dette løftes til produkteier, eller tilsvarende rolle.
+Unntak fra ledd i prosedyren skal begrunnes av teamet. For spesielt viktig kildekode skal dette løftes til produktutviklingssjef eller seksjonsleder.
 
 ## Lisensiering av åpen kildekode
 
@@ -41,7 +41,7 @@ Eksempel:
 
 Tech-lead, eller tilsvarende rolle som forvalter teamets kildekode, skal ta stilling til hvordan vedlikehold av kodebrønnen skal gjennomføres. Dette skal dokumenteres i kildekoden, og være tydelig for eksterne bidragsytere.
 
-Offentliggjøring av en kodebrønn skal skriftlig godkjennes av produkteier, eller tilsvarende rolle, før publisering.
+Offentliggjøring av en kodebrønn skal skriftlig godkjennes av produktutviklingssjef eller seksjonsleder, før publisering.
 
 Det praktiske eierskapet til kildekoden ligger hos teamet.
 
