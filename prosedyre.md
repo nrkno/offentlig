@@ -64,4 +64,4 @@ En arkivert kodebrønn kan ved behov gjenåpnes. Det bør samtidig vurderes om e
 ## Versjonering av kildekode
 
 Det forventes at kildekoden versjoneres. Nåværende standard på prosjekter i
-NRK er å bruke [semver](https://semver.org/). Se [blåboka](https://xn--blbok-nra.plattform-int.weu.k8s.az.nrk.cloud/Standarder/RFC-3-semver.html) for mer informasjon.
+NRK er å bruke [semver](https://semver.org/).
